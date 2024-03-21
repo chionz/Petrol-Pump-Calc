@@ -1,6 +1,7 @@
 import time
 import random
-currency = "NGN"
+money = input("Input Currency ")
+currency = money
 funit = "ltrs"
 def mode():
     print("Choose Mode")
